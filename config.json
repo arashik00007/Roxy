@@ -25,29 +25,29 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61588403646276",
-    "61585772322631",
-    "61576599896861"
+    "ashik.mahim007",
+    "ashik.mahim007",
+    "ashik.mahim007"
   ],
   "developer": [
-    "61588403646276",
+    "ashik.mahim007",
     "61585772322631",
     "61576599896861",
     "61553004827618",
     "100077764623961"
   ],
   "vipuser": [
-    "61588403646276",
+    "ashik.mahim007",
     "61585772322631",
     "61576599896861"
   ],
   "premium": [
-    "61585772322631",
+    "ashik.mahim007",
     "61588403646276",
     "61576599896861"
   ],
   "creator": [
-    "61585772322631",
+    "ashik.mahim007",
     "61588403646276",
     "61576599896861"
   ],
@@ -79,7 +79,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "X69X BOT V3",
+  "nickNameBot": "Roxy  BOT ",
   "prefix": ")",
   "database": {
     "type": "mongodb",
